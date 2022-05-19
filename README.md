@@ -5,10 +5,12 @@ It does so by taking the input image, loading it into memory using opencv, setti
 The output text image is then printed to the screen and saved to disk.
  
 To run:
-python3 imageToAscii.py -i <path-to-input-image> -o <save-path-for-text-file>
+python3 imageToAscii.py -i \<path-to-input-image\> -o \<save-path-for-text-file\>
 
 Before:
+
 ![](pikachu.png)
 
 After:
+
 ![](pikachuInAscii.png)
